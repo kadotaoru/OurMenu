@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/home_text"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/rice_bowl"
+        android:title="@string/don_text">
+        <menu>
+            <item
+                android:id="@+id/maguroDon"
+                android:title="@string/magurodon_text" />
+            <item
+                android:id="@+id/katsudon"
+                android:title="@string/katsudon_text" />
+            <item
+                android:id="@+id/CurryRice"
+                android:title="@string/curry_rice_tetx" />
+            <item
+                android:id="@+id/CurryLunch"
+                android:title="@string/curry_lunch_text" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/italian_food"
+        android:title="@string/italian_text">
+        <menu>
+            <item
+                android:id="@+id/pizza"
+                android:title="@string/pizza_text" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/bento"
+        android:title="@string/bento_text" >
+        <menu >
+            <item
+                android:id="@+id/steakBento"
+                android:title="@string/stake_bento_text" />
+            <item
+                android:id="@+id/hinomaruBento"
+                android:title="@string/hinomaru_bento_text" />
+            <item
+                android:id="@+id/takeruBento"
+                android:title="@string/takeru_bento_text" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/lunch_combo"
+        android:title="@string/lunsh_text" >
+        <menu >
+            <item
+                android:id="@+id/kaisenLunch"
+                android:title="@string/kaisen_lunch_text" />
+            <item
+                android:id="@+id/kidsLunch"
+                android:title="@string/kids_lunch_big_etxt" />
+            <item
+                android:id="@+id/yasaiLunch"
+                android:title="@string/yasai_lunch_text" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/others"
+        android:title="@string/other_text" >
+        <menu >
+            <item
+                android:id="@+id/shogayaki"
+                android:title="@string/shogayaki" />
+            <item
+                android:id="@+id/omuHayashi"
+                android:title="@string/omu_hayashi_text" />
+            <item
+                android:id="@+id/saladPlate"
+                android:title="@string/sarad_plate_text" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Our Menu</string>
+    <string name="home_text">home</string>
+    <string name="don_text">Rice Bowl</string>
+    <string name="curry_lunch_text">Curry lunch</string>
+    <string name="curry_rice_tetx">Rice with Curyy</string>
+    <string name="guukarubi_don_text">Grilled Rib Bowl</string>
+    <string name="katsudon_text">Pork Cutlet Rice Bowl</string>
+    <string name="magurodon_text">Tuna Bowl</string>
+    <string name="italian_text">Italian food</string>
+    <string name="karubonara_text">Carbonara</string>
+    <string name="marugerita_text">Margherita</string>
+    <string name="pizza_text">Pizza</string>
+    <string name="bento_text">Bento</string>
+    <string name="stake_bento_text">Steak Bento</string>
+    <string name="hinomaru_bento_text">Japanese simple Bento</string>
+    <string name="takeru_bento_text">Special Bento</string>
+    <string name="lunsh_text">Lunch Combo</string>
+    <string name="yasai_lunch_text">Vegetarian Lunch</string>
+    <string name="kids_lunch_big_etxt">Kids Lunch Combo</string>
+    <string name="kaisen_lunch_text">Seafood Lunch Combo</string>
+    <string name="other_text">Others</string>
+    <string name="hunbagu_text">Hamburger Steak</string>
+    <string name="omu_hayashi_text">Rice Omelet</string>
+    <string name="sarad_plate_text">Salada Plate</string>
+    <string name="shogayaki">Ginger flied Pork</string>
+    <string name="mail_text">send by e-mail</string>
+    <string name="sms_text">Send by SMS</string>
+    <string name="mail_text_true">Send by E-mail</string>
+
+
+</resources>
