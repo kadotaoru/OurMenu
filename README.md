@@ -4,7 +4,7 @@
 https://youtu.be/oKygG3sL9aU
 
 ## 🗻Tech
-- 開発言語：Kotlin
+- 開発言語：Kotlin 
 
 ## 📱About App
 - 食べたいメニューを家族に提案（メール）するアプリ
